@@ -1,0 +1,8 @@
+extends layout
+
+block content
+  table.table.table-striped.table-hover
+    each track in playlist
+      tbody
+        th= track.song
+        th= track.artist

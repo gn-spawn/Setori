@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-02-19T01:37:44Z</date>
+	<key>Application Version</key><string>12.7.3.46</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>DCC81E44B752785C</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2227</key>
+		<dict>
+			<key>Track ID</key><integer>2227</integer>
+			<key>Name</key><string>ギミチョコ!!</string>
+			<key>Artist</key><string>BABYMETAL</string>
+			<key>Album Artist</key><string>BABYMETAL</string>
+			<key>Album</key><string>BABYMETAL</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>9308292</integer>
+			<key>Total Time</key><integer>232724</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-10-12T16:00:41Z</date>
+			<key>Date Added</key><date>2015-05-27T16:13:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3590504303</integer>
+			<key>Play Date UTC</key><date>2017-10-10T09:18:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-15T11:50:24Z</date>
+			<key>Persistent ID</key><string>8DC607EC7AF9DE7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/BABYMETAL/BABYMETAL/1-03%20%E3%82%AD%E3%82%99%E3%83%9F%E3%83%81%E3%83%A7%E3%82%B3!!.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>2545</key>
+		<dict>
+			<key>Track ID</key><integer>2545</integer>
+			<key>Name</key><string>Sunday Silence</string>
+			<key>Artist</key><string>ANGRY FROG REBIRTH</string>
+			<key>Album Artist</key><string>ANGRY FROG REBIRTH</string>
+			<key>Album</key><string>Brave New World</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>8573580</integer>
+			<key>Total Time</key><integer>238746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-02-15T12:52:37Z</date>
+			<key>Date Added</key><date>2015-05-27T16:13:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3594633438</integer>
+			<key>Play Date UTC</key><date>2017-11-27T04:17:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-02-15T11:50:51Z</date>
+			<key>Release Date</key><date>2014-06-11T07:00:00Z</date>
+			<key>Normalization</key><integer>26857</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9EE957BE8466C50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/ANGRY%20FROG%20REBIRTH/Brave%20New%20World/01%20Sunday%20Silence.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3609</key>
+		<dict>
+			<key>Track ID</key><integer>3609</integer>
+			<key>Name</key><string>To Be Alive</string>
+			<key>Artist</key><string>coldrain</string>
+			<key>Album Artist</key><string>coldrain</string>
+			<key>Album</key><string>The Enemy Inside</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>7976329</integer>
+			<key>Total Time</key><integer>199314</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-11-08T04:06:50Z</date>
+			<key>Date Added</key><date>2015-05-27T16:13:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3598960445</integer>
+			<key>Play Date UTC</key><date>2018-01-16T06:14:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-02-15T11:51:01Z</date>
+			<key>Album Rating</key><integer>20</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Album</key><string>Enemy Inside</string>
+			<key>Persistent ID</key><string>8B16856B5561C851</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/coldrain/The%20Enemy%20Inside/1-01%20To%20Be%20Alive.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4725</key>
+		<dict>
+			<key>Track ID</key><integer>4725</integer>
+			<key>Name</key><string>Out of Control</string>
+			<key>Artist</key><string>MAN WITH A MISSION×Zebrahead</string>
+			<key>Album Artist</key><string>MAN WITH A MISSION×Zebrahead</string>
+			<key>Composer</key><string>MAN WITH A MISSION &#38; Zebrahead</string>
+			<key>Album</key><string>Out of Control - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>8547902</integer>
+			<key>Total Time</key><integer>199418</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-05-21T20:53:18Z</date>
+			<key>Date Added</key><date>2015-06-24T14:12:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>hikarinoakariost.info @tsuba20</string>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3599161701</integer>
+			<key>Play Date UTC</key><date>2018-01-18T14:08:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5AF1C1154582C6ED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/MAN%20WITH%20A%20MISSION%C3%97Zebrahead/Out%20of%20Control%20-%20EP/01%20Out%20of%20Control.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4749</key>
+		<dict>
+			<key>Track ID</key><integer>4749</integer>
+			<key>Name</key><string>Faint</string>
+			<key>Artist</key><string>LINKIN PARK</string>
+			<key>Album Artist</key><string>Linkin Park</string>
+			<key>Composer</key><string>LINKIN PARK</string>
+			<key>Album</key><string>Meteora</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>5630082</integer>
+			<key>Total Time</key><integer>162133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-09-01T03:33:48Z</date>
+			<key>Date Added</key><date>2015-06-27T12:55:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3594761767</integer>
+			<key>Play Date UTC</key><date>2017-11-28T15:56:07Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-02-15T11:49:51Z</date>
+			<key>Normalization</key><integer>13162</integer>
+			<key>Persistent ID</key><string>D4760BD0B8D3857C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Linkin%20Park/Meteora/07%20Faint.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5497</key>
+		<dict>
+			<key>Track ID</key><integer>5497</integer>
+			<key>Name</key><string>夏のトカゲ</string>
+			<key>Artist</key><string>TOTALFAT</string>
+			<key>Album Artist</key><string>TOTALFAT</string>
+			<key>Album</key><string>COME TOGETHER, SING WITH US</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>9772863</integer>
+			<key>Total Time</key><integer>238920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>BPM</key><integer>81</integer>
+			<key>Date Modified</key><date>2018-02-15T11:44:18Z</date>
+			<key>Date Added</key><date>2015-08-17T10:25:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Comments</key><string>http://www.alljpop.info Prom</string>
+			<key>Play Count</key><integer>37</integer>
+			<key>Play Date</key><integer>3584037394</integer>
+			<key>Play Date UTC</key><date>2017-07-27T12:56:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73D60653BB2532D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/TOTALFAT/COME%20TOGETHER,%20SING%20WITH%20US/11%20%E5%A4%8F%E3%81%AE%E3%83%88%E3%82%AB%E3%82%B1%E3%82%99.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6661</key>
+		<dict>
+			<key>Track ID</key><integer>6661</integer>
+			<key>Name</key><string>グロリアスデイズ</string>
+			<key>Artist</key><string>Three Lights Down Kings</string>
+			<key>Album Artist</key><string>Three Lights Down Kings</string>
+			<key>Composer</key><string>Uya</string>
+			<key>Album</key><string>グロリアスデイズ - Single</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>マッチした AAC オーディオファイル</string>
+			<key>Size</key><integer>8546367</integer>
+			<key>Total Time</key><integer>238840</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-09-27T03:29:21Z</date>
+			<key>Date Added</key><date>2015-12-05T09:53:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.alljpop.info Promo Purpose Use Only</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3579892027</integer>
+			<key>Play Date UTC</key><date>2017-06-09T13:27:07Z</date>
+			<key>Normalization</key><integer>11817</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF7BBF8861C4638A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Three%20Lights%20Down%20Kings/%E3%82%AF%E3%82%99%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%86%E3%82%99%E3%82%A4%E3%82%B9%E3%82%99%20-%20Single/01%20%E3%82%AF%E3%82%99%E3%83%AD%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%86%E3%82%99%E3%82%A4%E3%82%B9%E3%82%99.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6693</key>
+		<dict>
+			<key>Track ID</key><integer>6693</integer>
+			<key>Name</key><string>Matrix</string>
+			<key>Artist</key><string>Crystal Lake</string>
+			<key>Album Artist</key><string>Crystal Lake</string>
+			<key>Album</key><string>The Sign</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>10453527</integer>
+			<key>Total Time</key><integer>259134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-02-15T12:52:45Z</date>
+			<key>Date Added</key><date>2015-12-10T11:46:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(myzuka.ru)</string>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3593366623</integer>
+			<key>Play Date UTC</key><date>2017-11-12T12:23:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-01-04T07:24:02Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sign</string>
+			<key>Persistent ID</key><string>9D70769D7BEA8B5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Crystal%20Lake/The%20Sign/03%20Matrix.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6791</key>
+		<dict>
+			<key>Track ID</key><integer>6791</integer>
+			<key>Name</key><string>憂&#38;哀</string>
+			<key>Artist</key><string>ヒステリックパニック</string>
+			<key>Album Artist</key><string>ヒステリックパニック</string>
+			<key>Album</key><string>センチメンタル・サーカス - EP</string>
+			<key>Kind</key><string>購入した AAC オーディオファイル</string>
+			<key>Size</key><integer>7868914</integer>
+			<key>Total Time</key><integer>221173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-02-15T12:52:28Z</date>
+			<key>Date Added</key><date>2015-12-20T23:40:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3551871395</integer>
+			<key>Play Date UTC</key><date>2016-07-20T05:56:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-12-23T09:47:40Z</date>
+			<key>Release Date</key><date>2014-07-16T07:00:00Z</date>
+			<key>Normalization</key><integer>16410</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A94DB7466FD5C48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/%E3%83%92%E3%82%B9%E3%83%86%E3%83%AA%E3%83%83%E3%82%AF%E3%83%8F%E3%82%9A%E3%83%8B%E3%83%83%E3%82%AF/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%BC%E3%82%AB%E3%82%B9%20-%20EP/02%20%E6%86%82&#38;%E5%93%80.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6807</key>
+		<dict>
+			<key>Track ID</key><integer>6807</integer>
+			<key>Name</key><string>Throne</string>
+			<key>Artist</key><string>Bring Me The Horizon</string>
+			<key>Album</key><string>That's The Spirit</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>6817920</integer>
+			<key>Total Time</key><integer>191555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-09-01T03:33:52Z</date>
+			<key>Date Added</key><date>2015-12-23T13:30:30Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3599029284</integer>
+			<key>Play Date UTC</key><date>2018-01-17T01:21:24Z</date>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>B61724B0D9FF4815</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Compilations/That's%20The%20Spirit/1-03%20Throne.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>7853</key>
+		<dict>
+			<key>Track ID</key><integer>7853</integer>
+			<key>Name</key><string>恋のスペルマ</string>
+			<key>Artist</key><string>マキシマムザホルモン</string>
+			<key>Album Artist</key><string>マキシマムザホルモン</string>
+			<key>Album</key><string>予襲復讐</string>
+			<key>Genre</key><string>メタル</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>13587763</integer>
+			<key>Total Time</key><integer>337293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-02-15T11:42:39Z</date>
+			<key>Date Added</key><date>2016-03-20T01:01:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-09-06T09:28:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>恋のスペルマ</string>
+			<key>Persistent ID</key><string>4598305BB37E6AB3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%83%A0%E3%82%B5%E3%82%99%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3/%E4%BA%88%E8%A5%B2%E5%BE%A9%E8%AE%90/1-15%20%E6%81%8B%E3%81%AE%E3%82%B9%E3%83%98%E3%82%9A%E3%83%AB%E3%83%9E.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8065</key>
+		<dict>
+			<key>Track ID</key><integer>8065</integer>
+			<key>Name</key><string>Sink Like a Stone Feat. Hiro</string>
+			<key>Artist</key><string>SWANKY DANK</string>
+			<key>Album Artist</key><string>SWANKY DANK</string>
+			<key>Album</key><string>Circles</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>AAC オーディオファイル</string>
+			<key>Size</key><integer>9050477</integer>
+			<key>Total Time</key><integer>268440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-10-12T16:02:36Z</date>
+			<key>Date Added</key><date>2016-04-13T05:36:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3549862883</integer>
+			<key>Play Date UTC</key><date>2016-06-27T00:01:23Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-02-17T12:22:48Z</date>
+			<key>Normalization</key><integer>14296</integer>
+			<key>Persistent ID</key><string>E5315EEAF8CBD073</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/SWANKY%20DANK/Circles/02%20Sink%20Like%20a%20Stone%20Feat.%20Hiro.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8335</key>
+		<dict>
+			<key>Track ID</key><integer>8335</integer>
+			<key>Name</key><string>The Revelation</string>
+			<key>Artist</key><string>coldrain</string>
+			<key>Album Artist</key><string>coldrain</string>
+			<key>Album</key><string>The Revelation</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>10198673</integer>
+			<key>Total Time</key><integer>254902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-07-31T11:54:07Z</date>
+			<key>Date Added</key><date>2016-04-29T23:25:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3598438803</integer>
+			<key>Play Date UTC</key><date>2018-01-10T05:20:03Z</date>
+			<key>Sort Album</key><string>Revelation</string>
+			<key>Sort Name</key><string>Revelation</string>
+			<key>Persistent ID</key><string>4E182F7EC0D0866D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/coldrain/The%20Revelation/1-02%20The%20Revelation.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8765</key>
+		<dict>
+			<key>Track ID</key><integer>8765</integer>
+			<key>Name</key><string>Endless Sorrow</string>
+			<key>Artist</key><string>HEY-SMITH</string>
+			<key>Album Artist</key><string>HEY-SMITH</string>
+			<key>Album</key><string>Free Your Mind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>7269464</integer>
+			<key>Total Time</key><integer>181681</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2016-09-26T10:44:45Z</date>
+			<key>Date Added</key><date>2016-06-05T11:21:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3554373122</integer>
+			<key>Play Date UTC</key><date>2016-08-18T04:52:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-06-05T11:25:43Z</date>
+			<key>Normalization</key><integer>14558</integer>
+			<key>Persistent ID</key><string>9474890BE04E3A74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/HEY-SMITH/Free%20Your%20Mind/1-04%20Endless%20Sorrow.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>8835</key>
+		<dict>
+			<key>Track ID</key><integer>8835</integer>
+			<key>Name</key><string>GET iT OUT</string>
+			<key>Artist</key><string>SiM vs Crossfaith</string>
+			<key>Album</key><string>GET iT OUT</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>10937805</integer>
+			<key>Total Time</key><integer>276897</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-06-06T08:16:24Z</date>
+			<key>Date Added</key><date>2016-06-06T08:16:16Z</date>
+			<key>Bit Rate</key><integer>301</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3593628745</integer>
+			<key>Play Date UTC</key><date>2017-11-15T13:12:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2016-06-06T12:08:43Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FABCFC1029F19049</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Compilations/GET%20iT%20OUT/01%20GET%20iT%20OUT.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9447</key>
+		<dict>
+			<key>Track ID</key><integer>9447</integer>
+			<key>Name</key><string>ALONE</string>
+			<key>Artist</key><string>MY FIRST STORY</string>
+			<key>Album Artist</key><string>MY FIRST STORY</string>
+			<key>Album</key><string>ANTITHESE</string>
+			<key>Genre</key><string>ブルース</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>8868101</integer>
+			<key>Total Time</key><integer>215379</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2016-09-26T10:44:44Z</date>
+			<key>Date Added</key><date>2016-07-06T09:42:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3554266433</integer>
+			<key>Play Date UTC</key><date>2016-08-16T23:13:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-02-17T02:11:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38BE9A7A82700A48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/MY%20FIRST%20STORY/ANTITHESE/1-03%20ALONE.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9729</key>
+		<dict>
+			<key>Track ID</key><integer>9729</integer>
+			<key>Name</key><string>M1917</string>
+			<key>Artist</key><string>a crowd of rebellion</string>
+			<key>Album Artist</key><string>a crowd of rebellion</string>
+			<key>Album</key><string>Xanthium</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>9740249</integer>
+			<key>Total Time</key><integer>241711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2016-09-01T03:39:13Z</date>
+			<key>Date Added</key><date>2016-08-22T13:45:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.alljpop.net Promo Purpose Use Only</string>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3598648750</integer>
+			<key>Play Date UTC</key><date>2018-01-12T15:39:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>crowd of rebellion</string>
+			<key>Sort Artist</key><string>crowd of rebellion</string>
+			<key>Persistent ID</key><string>054F64F287C63422</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/a%20crowd%20of%20rebellion/Xanthium/M1917.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>9889</key>
+		<dict>
+			<key>Track ID</key><integer>9889</integer>
+			<key>Name</key><string>金色グラフティー</string>
+			<key>Artist</key><string>ROTTENGRAFFTY</string>
+			<key>Album Artist</key><string>ROTTENGRAFFTY</string>
+			<key>Album</key><string>Walk</string>
+			<key>Genre</key><string>J-Rock</string>
+			<key>Kind</key><string>MPEG オーディオファイル</string>
+			<key>Size</key><integer>10343681</integer>
+			<key>Total Time</key><integer>258533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2016-09-26T10:44:53Z</date>
+			<key>Date Added</key><date>2016-08-28T01:28:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3597298118</integer>
+			<key>Play Date UTC</key><date>2017-12-28T00:28:38Z</date>
+			<key>Persistent ID</key><string>7F98F48B36BD3F5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/ROTTENGRAFFTY/Walk/1-03%20%E9%87%91%E8%89%B2%E3%82%AF%E3%82%99%E3%83%A9%E3%83%95%E3%83%86%E3%82%A3%E3%83%BC.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10629</key>
+		<dict>
+			<key>Track ID</key><integer>10629</integer>
+			<key>Name</key><string>Stay Gold</string>
+			<key>Artist</key><string>Hi-STANDARD</string>
+			<key>Album</key><string>Making The Road</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Losslessオーディオファイル</string>
+			<key>Size</key><integer>16674827</integer>
+			<key>Total Time</key><integer>120200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-01-20T09:16:07Z</date>
+			<key>Date Added</key><date>2017-01-20T09:15:58Z</date>
+			<key>Bit Rate</key><integer>1108</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3585544503</integer>
+			<key>Play Date UTC</key><date>2017-08-13T23:35:03Z</date>
+			<key>Normalization</key><integer>9652</integer>
+			<key>Persistent ID</key><string>AB739C593BEC9AAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Hi-STANDARD/Making%20The%20Road/06%20Stay%20Gold.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10667</key>
+		<dict>
+			<key>Track ID</key><integer>10667</integer>
+			<key>Name</key><string>VIBES BY VIBES</string>
+			<key>Artist</key><string>10-FEET</string>
+			<key>Composer</key><string>TAKUMA</string>
+			<key>Album</key><string>10-BEST 2001-2009 [Disc 1]</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>Apple Losslessオーディオファイル</string>
+			<key>Size</key><integer>23213296</integer>
+			<key>Total Time</key><integer>169813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-01-20T09:23:34Z</date>
+			<key>Date Added</key><date>2017-01-20T09:23:21Z</date>
+			<key>Bit Rate</key><integer>1092</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>17810</integer>
+			<key>Persistent ID</key><string>5CB6010385385917</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Type</key><integer>1295270176</integer>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/10-FEET/10-BEST%202001-2009%20%5BDisc%201%5D/1-02%20VIBES%20BY%20VIBES.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>10819</key>
+		<dict>
+			<key>Track ID</key><integer>10819</integer>
+			<key>Name</key><string>Roller Coaster</string>
+			<key>Artist</key><string>Alloy</string>
+			<key>Album Artist</key><string>Alloy</string>
+			<key>Album</key><string>Alloy 1st</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>3789653</integer>
+			<key>Total Time</key><integer>231836</integer>
+			<key>Date Modified</key><date>2017-06-13T15:06:28Z</date>
+			<key>Date Added</key><date>2017-06-13T15:04:22Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3593110835</integer>
+			<key>Play Date UTC</key><date>2017-11-09T13:20:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2A1747FACF4A1082</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Alloy/Alloy%201st/Roller%20Coaster.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11375</key>
+		<dict>
+			<key>Track ID</key><integer>11375</integer>
+			<key>Name</key><string>Toxic</string>
+			<key>Artist</key><string>PassCode</string>
+			<key>Album Artist</key><string>PassCode</string>
+			<key>Composer</key><string>平地孝次</string>
+			<key>Album</key><string>Locus</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入したAACオーディオファイル</string>
+			<key>Size</key><integer>7145796</integer>
+			<key>Total Time</key><integer>192333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-02-14T04:13:37Z</date>
+			<key>Date Added</key><date>2018-02-14T00:34:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3601467968</integer>
+			<key>Play Date UTC</key><date>2018-02-14T06:46:08Z</date>
+			<key>Release Date</key><date>2018-02-27T08:00:00Z</date>
+			<key>Normalization</key><integer>20089</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ろーかす</string>
+			<key>Sort Artist</key><string>ぱすこーど</string>
+			<key>Sort Name</key><string>ときしっく</string>
+			<key>Persistent ID</key><string>D326681F1529695B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/PassCode/Locus/01%20Toxic.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11377</key>
+		<dict>
+			<key>Track ID</key><integer>11377</integer>
+			<key>Name</key><string>JACK.B</string>
+			<key>Artist</key><string>SiM</string>
+			<key>Album</key><string>LIVING IN PAiN</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>9825844</integer>
+			<key>Total Time</key><integer>238550</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2015-06-04T05:00:08Z</date>
+			<key>Date Added</key><date>2018-02-15T11:09:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1C0EB845B5B79B9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/SiM/LIVING%20IN%20PAiN/01%20JACK.B.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11389</key>
+		<dict>
+			<key>Track ID</key><integer>11389</integer>
+			<key>Name</key><string>Final Destination</string>
+			<key>Artist</key><string>coldrain</string>
+			<key>Album</key><string>Final Destination</string>
+			<key>Genre</key><string>Post-Hardcore</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>8169037</integer>
+			<key>Total Time</key><integer>203441</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2016-10-03T11:39:24Z</date>
+			<key>Date Added</key><date>2018-02-15T11:13:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.jkwaveblog.com</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EA872C7941169FF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/coldrain/Final%20Destination/01%20Final%20Destination.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11415</key>
+		<dict>
+			<key>Track ID</key><integer>11415</integer>
+			<key>Name</key><string>One More Chance!! -TV Size-</string>
+			<key>Artist</key><string>ALL OFF</string>
+			<key>Album</key><string>One More Chance!!</string>
+			<key>Genre</key><string>J-Pop</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>3809182</integer>
+			<key>Total Time</key><integer>89103</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-18T23:18:14Z</date>
+			<key>Date Added</key><date>2018-02-15T12:50:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.alljpop.info Promo Purpose Use Only</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27F0028E2E66A175</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/ALL%20OFF/One%20More%20Chance!!/02%20One%20More%20Chance!!%20-TV%20Size-.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11439</key>
+		<dict>
+			<key>Track ID</key><integer>11439</integer>
+			<key>Name</key><string>Supernova</string>
+			<key>Artist</key><string>ELLEGARDEN</string>
+			<key>Album</key><string>Ellegarden Best (1999-2008)</string>
+			<key>Genre</key><string>邦楽</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>7472073</integer>
+			<key>Total Time</key><integer>215666</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2012-05-07T06:07:22Z</date>
+			<key>Date Added</key><date>2018-02-15T12:50:59Z</date>
+			<key>Bit Rate</key><integer>277</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-15T12:58:00Z</date>
+			<key>Persistent ID</key><string>F58483595132B973</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/ELLEGARDEN/Ellegarden%20Best%20(1999-2008)/08%20Supernova.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11467</key>
+		<dict>
+			<key>Track ID</key><integer>11467</integer>
+			<key>Name</key><string>Return to Zero</string>
+			<key>Artist</key><string>Fear, and Loathing in Las Vegas</string>
+			<key>Album Artist</key><string>Fear, and Loathing in Las Vegas</string>
+			<key>Album</key><string>New Sunrise</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>9001906</integer>
+			<key>Total Time</key><integer>224000</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-24T13:28:50Z</date>
+			<key>Date Added</key><date>2018-02-17T01:58:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>357DD60D611FBE34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Fear,%20and%20Loathing%20in%20Las%20Vegas/New%20Sunrise/01%20Return%20to%20Zero.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11515</key>
+		<dict>
+			<key>Track ID</key><integer>11515</integer>
+			<key>Name</key><string>A Fact Of Life</string>
+			<key>Artist</key><string>FACT</string>
+			<key>Album Artist</key><string>FACT</string>
+			<key>Album</key><string>Best Album (Best+2009-2015)</string>
+			<key>Genre</key><string>Melodic Hardcore</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>5444464</integer>
+			<key>Total Time</key><integer>184163</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2015-11-16T05:29:12Z</date>
+			<key>Date Added</key><date>2018-02-17T12:26:30Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Fact Of Life</string>
+			<key>Persistent ID</key><string>7BCA50C64DCEEA24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/FACT/Best%20Album%20(Best+2009-2015)/04%20A%20Fact%20Of%20Life.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11549</key>
+		<dict>
+			<key>Track ID</key><integer>11549</integer>
+			<key>Name</key><string>Wipeout</string>
+			<key>Artist</key><string>Crossfaith</string>
+			<key>Album</key><string>WIPEOUT (Deluxe Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>9415258</integer>
+			<key>Total Time</key><integer>233769</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-01-23T05:18:42Z</date>
+			<key>Date Added</key><date>2018-02-17T12:35:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-17T12:35:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F9BC3DFCB0DB9AFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Crossfaith/WIPEOUT%20(Deluxe%20Edition)/01%20Wipeout.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11561</key>
+		<dict>
+			<key>Track ID</key><integer>11561</integer>
+			<key>Name</key><string>oh！my！ME・GA・MIに恋してる！</string>
+			<key>Artist</key><string>Broken By The Scream</string>
+			<key>Album Artist</key><string>Broken By The Scream</string>
+			<key>Album</key><string>Broken By The Scream</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>12010469</integer>
+			<key>Total Time</key><integer>300000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2018-02-17T12:42:41Z</date>
+			<key>Date Added</key><date>2018-02-17T12:35:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-17T12:35:35Z</date>
+			<key>Release Date</key><date>2017-01-01T12:00:00Z</date>
+			<key>Persistent ID</key><string>990E7B9D63D360B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Broken%20By%20The%20Scream/Broken%20By%20The%20Scream/1-01%20oh%EF%BC%81my%EF%BC%81ME%E3%83%BBGA%E3%83%BBMI%E3%81%AB%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%81.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11579</key>
+		<dict>
+			<key>Track ID</key><integer>11579</integer>
+			<key>Name</key><string>99.9</string>
+			<key>Artist</key><string>Xmas Eileen</string>
+			<key>Album Artist</key><string>Xmas Eileen</string>
+			<key>Album</key><string>99.9 - EP</string>
+			<key>Genre</key><string>ロック</string>
+			<key>Kind</key><string>購入したAACオーディオファイル</string>
+			<key>Size</key><integer>8931300</integer>
+			<key>Total Time</key><integer>238493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-29T05:56:20Z</date>
+			<key>Date Added</key><date>2018-02-17T12:39:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3601748729</integer>
+			<key>Play Date UTC</key><date>2018-02-17T12:45:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-17T12:39:53Z</date>
+			<key>Release Date</key><date>2017-04-19T07:00:00Z</date>
+			<key>Normalization</key><integer>12979</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>99.9 - EP</string>
+			<key>Sort Artist</key><string>Xmas Eileen</string>
+			<key>Sort Name</key><string>99.9</string>
+			<key>Persistent ID</key><string>DAF0FB4D2E2E14DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/Xmas%20Eileen/99.9%20-%20EP/01%2099.9.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11591</key>
+		<dict>
+			<key>Track ID</key><integer>11591</integer>
+			<key>Name</key><string>日本の米は世界一</string>
+			<key>Artist</key><string>打首獄門同好会</string>
+			<key>Album</key><string>日本の米は世界一</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>8420735</integer>
+			<key>Total Time</key><integer>212218</integer>
+			<key>Date Modified</key><date>2018-02-17T12:50:00Z</date>
+			<key>Date Added</key><date>2018-02-17T12:48:51Z</date>
+			<key>Bit Rate</key><integer>317</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3601749152</integer>
+			<key>Play Date UTC</key><date>2018-02-17T12:52:32Z</date>
+			<key>Persistent ID</key><string>37C88960BE1C5509</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/%E6%89%93%E9%A6%96%E7%8D%84%E9%96%80%E5%90%8C%E5%A5%BD%E4%BC%9A/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B1%B3%E3%81%AF%E4%B8%96%E7%95%8C%E4%B8%80/%E6%97%A5%E6%9C%AC%E3%81%AE%E7%B1%B3%E3%81%AF%E4%B8%96%E7%95%8C%E4%B8%80.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>11595</key>
+		<dict>
+			<key>Track ID</key><integer>11595</integer>
+			<key>Name</key><string>Meteor</string>
+			<key>Artist</key><string>SALTY DOG</string>
+			<key>Album Artist</key><string>SALTY DOG</string>
+			<key>Album</key><string>YGGDRASiL ANTHEM - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEGオーディオファイル</string>
+			<key>Size</key><integer>4885088</integer>
+			<key>Total Time</key><integer>180401</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2016-01-19T02:24:12Z</date>
+			<key>Date Added</key><date>2018-02-17T13:00:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>83185B63CA9AB7BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/spawn00/Music/iTunes/iTunes%20Media/Music/SALTY%20DOG/YGGDRASiL%20ANTHEM%20-%20EP/02%20Meteor.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>3PM</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>26920</integer>
+			<key>Playlist Persistent ID</key><string>35B5D81E103589F7</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6807</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8765</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10819</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11377</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9889</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8335</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7853</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
