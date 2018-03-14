@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/bin/node /Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/bin/yarn start
+  /Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/bin/node /Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/bin/yarn add multr
 
 PATH: 
   /Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/bin:/Users/spawn/.anyenv/envs/ndenv/libexec:/Users/spawn/.anyenv/envs/ndenv/plugins/node-build/bin:/Users/spawn/.anyenv/envs/pyenv/shims:/Users/spawn/.anyenv/envs/pyenv/bin:/Users/spawn/.anyenv/envs/ndenv/bin:/Users/spawn/.anyenv/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/spawn/.anyenv/envs/pyenv/shims:/Users/spawn/.anyenv/envs/pyenv/bin:/Users/spawn/.anyenv/envs/ndenv/shims:/Users/spawn/.anyenv/envs/ndenv/bin:/Users/spawn/.anyenv/bin
@@ -1163,16 +1163,11 @@ Lockfile:
       window-size "0.1.0"
 
 Trace: 
-  Error: Command failed.
-  Exit code: 1
-  Command: sh
-  Arguments: -c nodemon --exec npm run babel-node
-  Directory: /Users/spawn/Develop/Setori
-  Output:
-  
-      at ProcessTermError.MessageError (/Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:186:110)
-      at new ProcessTermError (/Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:226:113)
-      at ChildProcess.<anonymous> (/Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:30281:17)
-      at ChildProcess.emit (events.js:180:13)
-      at maybeClose (internal/child_process.js:936:16)
-      at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+  Error: Couldn't find package "multr" on the "npm" registry.
+      at new MessageError (/Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:186:110)
+      at NpmResolver.<anonymous> (/Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:51625:15)
+      at Generator.next (<anonymous>)
+      at step (/Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:98:30)
+      at /Users/spawn/.anyenv/envs/ndenv/versions/9.8.0/lib/node_modules/yarn/lib/cli.js:109:13
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:118:7)

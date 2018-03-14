@@ -4,8 +4,6 @@ block content
   h1 セトリシェア
   p セットリストをシェア
 
-  .form-group
-    label.form-label セットリストのXML(iTunes)
-    .flex-container
-      input.form-input(type='file')
-      button.btn.btn-primary 送信
+  form(method="post", enctype="multipart/form-data", action="/upload")
+    input(type="file", name="playlist")
+    input(type="submit").btn
