@@ -17,7 +17,6 @@ router.post('/upload', upload.single('playlist'), (req, res) => {
   const playlist = []
   const xml = plist.parse(fs.readFileSync(req.file.path, 'utf8'))
   get_playlist(xml).forEach(song => {
-    // playlist.push(`${song['Name']} / ${song['Artist']}`)
     playlist.push({
       'song': song['Name'],
       'artist': song['Artist'],
