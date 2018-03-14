@@ -2,6 +2,7 @@ import express from 'express';
 import multer from 'multer';
 import plist from 'plist';
 import fs from 'fs';
+import domtoimage from 'dom-to-image';
 
 const router = express.Router();
 const storage = multer.memoryStorage()
